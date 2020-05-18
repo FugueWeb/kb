@@ -1,20 +1,13 @@
-====
-HTML
-====
+## HTML
 
 <div></div>
 <p></p>
 
-
-===
-CSS
-===
+## CSS
 
 <link rel="stylesheet" type="text/css" href="">
 
-==========
-Javascript
-==========
+## Javascript
 
 // self executing function
 (function() {
