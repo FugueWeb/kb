@@ -1,4 +1,4 @@
-## HTML
+## Hyper Text Markup Language (HTML)
 
 ```html
 <div></div> <!-- division -->
@@ -19,7 +19,7 @@ https://www.w3schools.com/TAGs/ - Explore using some new HTML tags
 * Forms
 * Meta tags
 
-## CSS
+## Cascading Style Sheets (CSS)
 
 ```css
 div {
@@ -87,6 +87,10 @@ function myFunction() {
 function myFunctionWithParameter(param) {
     console.log(param);
 }
+
+<button onclick="myFunction()">Click me</button>
+<p id="demo">Some random text.</p>
+document.getElementById("demo").innerHTML = "Hello World";
 ```
 <script src=""></script>
 
@@ -109,9 +113,16 @@ git remote add origin https://github.com/user/repo.git
 git push -u origin master
 ```
 
+## Application Programming Interface (API)
+
+* https://github.com/public-apis/public-apis
+* https://dog.ceo/dog-api/
+
 ## Resources
-* [Git Docs](https://git-scm.com/doc)
+
 * [Web Dev Video](https://www.youtube.com/watch?v=5YDVJaItmaY)
+* [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+* [Git Docs](https://git-scm.com/doc)
 * [Stackoverflow](https://stackoverflow.com/)
 * AWS, Digital Ocean, MS Azure, Google - Web hosting and cloud computing\
 * [Most forked repos on GitHub](https://github.com/search?o=desc&q=stars:%3E1&s=forks&type=Repositories)
