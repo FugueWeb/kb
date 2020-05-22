@@ -122,9 +122,8 @@ git push -u origin master
 
 * [Web Dev Video](https://www.youtube.com/watch?v=5YDVJaItmaY)
 * [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
-* [Git Docs](https://git-scm.com/doc)
-* [Stackoverflow](https://stackoverflow.com/)
-* AWS, Digital Ocean, MS Azure, Google - Web hosting and cloud computing\
 * [Most forked repos on GitHub](https://github.com/search?o=desc&q=stars:%3E1&s=forks&type=Repositories)
 * [Most starred repos on GitHub](https://github.com/search?q=stars%3A%3E100&s=stars&type=Repositories)
 * [StackOverflow Insight](https://insights.stackoverflow.com/survey/2019)
+* [Git Docs](https://git-scm.com/doc)
+* AWS, Digital Ocean, MS Azure, Google - Web hosting and cloud computing
