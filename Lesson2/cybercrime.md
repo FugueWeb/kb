@@ -5,11 +5,13 @@
 * Non-state actors, syndicate/cartel/organized crime, call center scams
 * Lone wolf (black hat), hactivist groups, "script kiddies"
 
+Risk management: Impact vs. probability
+
 ## Guiding Questions
 * International criminal investigation, hard to ascribe identity
-* Legal framework missing (or inconsistent between countries) to address range of issue
+* Legal framework missing (or inconsistent between countries) to address range of issue, multiple jurisdictions
 * Limited agreement on what exactly constitutes a "crime" in cyberspace
-* Distinction between crime, terrorism, and espionage in cyberspace
+    * Distinction between crime, terrorism, and espionage in cyberspace
 
 ## Key Terms
 * https://pdf.ic3.gov/2019_IC3Report.pdf (definitions of terms)
@@ -40,6 +42,12 @@
 * https://en.wikipedia.org/wiki/List_of_data_breaches
 * [Global Cybercrime Damages Predicted To Reach $6 Trillion Annually By 2021](https://cybersecurityventures.com/cybercrime-damages-6-trillion-by-2021/)
 * [CIA World Fact Book](https://www.cia.gov/library/publications/resources/the-world-factbook/)
+
+## Budapest Convention on Cybercrime (2001)
+
+* Harmonising the domestic criminal substantive law elements of offences and connected provisions in the area of cyber-crime
+* Providing for domestic criminal procedural law powers necessary for the investigation and prosecution of such offences as well as other offences committed by means of a computer system or evidence in relation to which is in electronic form
+* Setting up a fast and effective regime of international cooperation
 
 ## Interpol Action Streams
 * https://www.interpol.int/content/download/5586/file/Summary_CYBER_Strategy_2017_01_EN%20LR.pdf
