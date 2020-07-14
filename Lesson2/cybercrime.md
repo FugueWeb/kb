@@ -34,10 +34,12 @@
 ## Other Resources
 * Role of Encryption
     * [Electronic Frontier Foundation](https://www.eff.org/issues/privacy)
+* [Stuxnet](https://www.youtube.com/watch?v=zEjUlbmD9kQ) - Cyber warfare
 * [Have I Been Pwned](https://haveibeenpwned.com/)
 * https://www.opm.gov/cybersecurity/cybersecurity-incidents/#WhatHappened
 * https://en.wikipedia.org/wiki/List_of_data_breaches
 * [Global Cybercrime Damages Predicted To Reach $6 Trillion Annually By 2021](https://cybersecurityventures.com/cybercrime-damages-6-trillion-by-2021/)
+* [CIA World Fact Book](https://www.cia.gov/library/publications/resources/the-world-factbook/)
 
 ## Interpol Action Streams
 * https://www.interpol.int/content/download/5586/file/Summary_CYBER_Strategy_2017_01_EN%20LR.pdf
