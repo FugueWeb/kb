@@ -4,6 +4,7 @@
 * Advanced Persistent Threat (APT), Intelligence Community (IC), military
 * Non-state actors, syndicate/cartel/organized crime, call center scams
 * Lone wolf (black hat), hactivist groups, "script kiddies"
+    * Dark net markets
 
 Risk management: Impact vs. probability
 
